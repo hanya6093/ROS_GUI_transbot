@@ -1,0 +1,8 @@
+prefix=/home/lj/ros/qt_ros_test/install
+
+Name: qt_ros_demo01
+Description: Description of qt_ros_demo01
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rosmsg message_runtime

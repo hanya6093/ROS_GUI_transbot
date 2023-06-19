@@ -1,0 +1,2 @@
+qt_ros_demo01
+-DCATKIN_DEVEL_PREFIX=/home/lj/ros/qt_ros_test/devel -DCMAKE_INSTALL_PREFIX=/home/lj/ros/qt_ros_test/install -G Unix Makefiles
